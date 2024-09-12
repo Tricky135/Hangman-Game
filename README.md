@@ -1,4 +1,4 @@
-# THE HANGMAN'S GAME
+# The Hangman's Game
 This project is a simple word guessing minigame.
 
 The Hangman Game is a simple console based word minimgame where the user has to guess the word by considering the hints and the number of blank spaces provided.
